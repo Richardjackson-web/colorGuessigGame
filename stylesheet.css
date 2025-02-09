@@ -22,7 +22,14 @@ body {
     border: none;
     cursor: pointer;
 }
-.score, .gameStatus{
+.gameStatus{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-family: "Orbitron", serif;
+    font-weight: bolder;
+    color: white;
+}
+.score{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 30px;
     font-family: "Orbitron", serif;
